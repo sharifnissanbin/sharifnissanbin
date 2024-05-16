@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,This is Nissan Bin Sharif</h1>
-<h3 align="center">A passionate software developer from Dhaka, Bangladesh. I'm able to make any management system software. I works with C#, Java, Python.</h3>
+<h3 align="center">A passionate software developer from Dhaka, Bangladesh. I'm able to make any management system software. I work with C#, Java, Python.</h3>
 
 - 🔭 I’m currently working on **apps development**
 
